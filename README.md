@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-👨‍💻​ Comp-Sci student, passionate about Data Sciente, AI, etc.<br>❤️​ Average course enjoyer.  <br>🌱 I’m currently learning Machine Learning.<br>📚​ I'm currently reading [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).
+👨‍💻​ Comp-Sci student, passionate about Data Sciente, AI, etc.<br>❤️​ Average course enjoyer.  <br>
 
 
 ## 🌐 Socials:
