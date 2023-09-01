@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-👨‍💻​ Comp-Sci student, passionate about Data Sciente, AI, etc.<br>❤️​ Average course enjoyer.  <br>
+👨‍💻​ Comp-Sci, passionate about Data Sciente, AI, etc.<br>❤️​ Average course enjoyer.  <br>
 
 
 ## 🌐 Socials:
